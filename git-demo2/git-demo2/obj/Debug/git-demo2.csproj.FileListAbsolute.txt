@@ -1,0 +1,10 @@
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\bin\Debug\git-demo2.exe.config
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\bin\Debug\git-demo2.exe
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\bin\Debug\git-demo2.pdb
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\obj\Debug\git-demo2.csprojAssemblyReference.cache
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\obj\Debug\git_demo2.Form1.resources
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\obj\Debug\git_demo2.Properties.Resources.resources
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\obj\Debug\git-demo2.csproj.GenerateResource.cache
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\obj\Debug\git-demo2.csproj.CoreCompileInputs.cache
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\obj\Debug\git-demo2.exe
+C:\Users\Saku\Documents\git-demo2\git-demo2\git-demo2\obj\Debug\git-demo2.pdb
