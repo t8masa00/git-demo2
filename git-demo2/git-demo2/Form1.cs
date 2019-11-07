@@ -19,7 +19,7 @@ namespace git_demo2
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            button1.BackColor = Color.Red;
+            button1.BackColor = Color.Blue;
         }
     }
 }
